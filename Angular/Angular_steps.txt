@@ -1,0 +1,19 @@
+1. check version
+
+node -- version
+npm --version
+
+2. install angualr in directory as below
+
+npm install -g @angular/cli
+
+3. create new angular app as below
+
+ng new client
+
+opening DatingApp folder
+
+and then cd client and
+ ng serve
+
+Angular is based on components which is basic building block
